@@ -135,13 +135,13 @@
 		EDEAA1511B5C576D00F2FC3F /* CKServiceInterface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CKServiceInterface.h; sourceTree = "<group>"; };
 		EDEAA1521B5C576D00F2FC3F /* CKSoftwareMap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CKSoftwareMap.h; sourceTree = "<group>"; };
 		EDEAA1551B5C576D00F2FC3F /* CKUpdateController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CKUpdateController.h; sourceTree = "<group>"; };
-		EDEAA1661B5C576D00F2FC3F /* ISStoreURLOperationDelegate-Protocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ISStoreURLOperationDelegate-Protocol.h"; sourceTree = "<group>"; };
 		EDEAA17C1B5C579100F2FC3F /* CommerceKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CommerceKit.framework; path = /System/Library/PrivateFrameworks/CommerceKit.framework; sourceTree = "<absolute>"; };
 		F36A4ABD8025E13060312925 /* Argument.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Argument.swift; path = Seeds/Commandant/Sources/Commandant/Argument.swift; sourceTree = "<group>"; };
 		F547B3DC473CFB1BE0AEB70A /* Errors.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Errors.swift; path = Seeds/Commandant/Sources/Commandant/Errors.swift; sourceTree = "<group>"; };
 		F8233C87201EBDF000268278 /* mas-tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "mas-tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8233C8B201EBDF100268278 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F865880A2030F6DE0093DE57 /* MASErrorTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MASErrorTestCase.swift; sourceTree = "<group>"; };
+		F86EBF2E2077214100C0976E /* ISStoreURLOperationDelegate-Protocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ISStoreURLOperationDelegate-Protocol.h"; sourceTree = "<group>"; };
 		F876300720438AF2003D370B /* ISAuthenticationResponse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ISAuthenticationResponse.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -310,7 +310,7 @@
 				EDEAA1511B5C576D00F2FC3F /* CKServiceInterface.h */,
 				EDEAA1521B5C576D00F2FC3F /* CKSoftwareMap.h */,
 				EDEAA1551B5C576D00F2FC3F /* CKUpdateController.h */,
-				EDEAA1661B5C576D00F2FC3F /* ISStoreURLOperationDelegate-Protocol.h */,
+				F86EBF2E2077214100C0976E /* ISStoreURLOperationDelegate-Protocol.h */,
 			);
 			path = CommerceKit;
 			sourceTree = "<group>";
